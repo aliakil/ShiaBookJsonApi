@@ -43,7 +43,7 @@ try {
       ]);
       return
     }
-    book=req.path.match(/\w+\/?/g)[1]?.replace("/", "");
+    book=req.path.match(/\w+\/?/g)[1].replace("/", "");
     
     matches = Boolean(/^\/book\/?$/g.exec(req.path));
     console.log(req.path)
