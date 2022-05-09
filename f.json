@@ -1,0 +1,57 @@
+{
+    "data":{
+     "id": 1,
+     "name":"علي عقيل",
+     "department":"Information Technology",
+     "college":"Indian Institute of Engineering Science and Technology, Shibpur",
+     "subjects":[
+        {
+            "title":"Data Structures",
+            "active":true,
+            "faculty":"Prasun Ghosal",
+            "notifications":4,
+            "color":"#9c27b0"
+        },
+        {
+            "title":"Operating System",
+            "active":true,
+            "faculty":"Niharika Singh",
+            "notifications":0,
+            "color":"#ffc107"
+        },
+        {
+            "title":"Algorithms",
+            "active":true,
+            "faculty":"Debojit Mondal",
+            "notifications":1,
+            "color":"#009688"
+        },
+        {
+            "title":"Web Technologies",
+            "active":true,
+            "faculty":"Shantanu Saurabh",
+            "notifications":2,
+            "color":"#ff5722"
+        },
+        {
+            "title":"تشسي",
+            "active":true,
+            "faculty":"Sudhanshu Sekhar",
+            "notifications":3,
+            "color":"#03a9f4"
+        },
+        {
+            "title":"Digital Logic and Circuit Design",
+            "active":false,
+            "faculty":"",
+            "notifications":0,
+            "color":"#9e9e9e"
+        }
+      ]
+    },
+    "data2":{
+        "name":"علي عقيل",
+        "department":"Information Technology",
+        "college":"Indian Institute of Engineering Science and Technology, Shibpur"
+    }
+    }
