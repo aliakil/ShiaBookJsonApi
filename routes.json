@@ -1,5 +1,0 @@
-{
-    "/api/*":"/$1",
-    "/alkafi-v1":"/alkafi-v1?_page=1&_limit=10",
-    "/alkafi-v1/range(:a,:b)":"/alkafi-v1?id_gte=:a&id_lte=:b"   
-}
